@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LyricsFinder</string>
+    <string name="artist_text">Please Enter the Artist name...</string>
+    <string name="song_name">Please Enter the Song name...</string>
+    <string name="btn_getLyrics">Give me the lyrics of this song</string>
+    <string name="txt_lyrics">Your Lyrics</string>
+</resources>
